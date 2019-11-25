@@ -1,5 +1,5 @@
 def join_ingredients(src)
-  src = "I love #{array_1[0][0]} and #{arry_1[0][1]} on my pizza"
+  src = "I love element 1 and element 2 on my pizza"
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
   # Build a new Array that contains strings where each pair of foods is
